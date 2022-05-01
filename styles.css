@@ -1,3 +1,7 @@
+* {
+    max-width: 800px;
+  }
+
 body {  
     background-color: rgb(0, 43, 54);
     position: absolute;
@@ -49,3 +53,28 @@ header.background-highlights{
     font-size: 150%;
     
   }
+
+aside{
+    color: rgb(133,153,0);
+    position: absolute;
+    right: 20px;
+    top: 130px;
+}
+aside a{
+    color:rgb(220, 50, 47);
+}
+form,article, aside, footer {
+    padding-top: 50px;
+}
+
+.item1{
+    width: 600px;
+    position: relative;
+}
+.item2{
+    width: 200px;
+    position: absolute;
+    bottom: 10px;
+    top: 140px;
+}
+
