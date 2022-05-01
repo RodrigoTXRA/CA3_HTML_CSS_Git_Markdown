@@ -1,0 +1,22 @@
+body {  
+    background-color: rgb(0, 43, 54);
+    position: absolute;
+      }
+
+      header.background-highlights{
+        background-color: rgb(7, 54, 66);
+        color: rgb(131,148,150);
+        align-items: center;
+        text-align: center;
+        font-size: 150%;
+        
+      }
+      footer.background-highlights{
+        background-color: rgb(7, 54, 66);
+        color: rgb(131,148,150);   
+      }
+      
+      main.background-highlights{
+        background-color: rgb(7, 54, 66);
+        color: rgb(131,148,150);   
+      } 
